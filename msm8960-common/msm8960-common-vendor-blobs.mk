@@ -103,6 +103,19 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8960-common/proprietary/lib/libchromatix_s5k3l1yx_preview.so:system/lib/libchromatix_s5k3l1yx_preview.so \
     vendor/motorola/msm8960-common/proprietary/lib/libchromatix_s5k3l1yx_video_hd.so:system/lib/libchromatix_s5k3l1yx_video_hd.so \
     vendor/motorola/msm8960-common/proprietary/lib/libchromatix_s5k3l1yx_zsl.so:system/lib/libchromatix_s5k3l1yx_zsl.so \
+    vendor/motorola/msm8960-common/proprietary/etc/firmware/q6.b00:system/etc/firmware/q6.b00 \
+    vendor/motorola/msm8960-common/proprietary/etc/firmware/q6.b01:system/etc/firmware/q6.b01 \
+    vendor/motorola/msm8960-common/proprietary/etc/firmware/q6.b03:system/etc/firmware/q6.b03 \
+    vendor/motorola/msm8960-common/proprietary/etc/firmware/q6.b04:system/etc/firmware/q6.b04 \
+    vendor/motorola/msm8960-common/proprietary/etc/firmware/q6.b05:system/etc/firmware/q6.b05 \
+    vendor/motorola/msm8960-common/proprietary/etc/firmware/q6.b06:system/etc/firmware/q6.b06 \
+    vendor/motorola/msm8960-common/proprietary/etc/firmware/q6.mdt:system/etc/firmware/q6.mdt \
+    vendor/motorola/msm8960-common/proprietary/etc/firmware/wcnss.b00:system/etc/firmware/wcnss.b00 \
+    vendor/motorola/msm8960-common/proprietary/etc/firmware/wcnss.b01:system/etc/firmware/wcnss.b01 \
+    vendor/motorola/msm8960-common/proprietary/etc/firmware/wcnss.b02:system/etc/firmware/wcnss.b02 \
+    vendor/motorola/msm8960-common/proprietary/etc/firmware/wcnss.b04:system/etc/firmware/wcnss.b04 \
+    vendor/motorola/msm8960-common/proprietary/etc/firmware/wcnss.b05:system/etc/firmware/wcnss.b05 \
+    vendor/motorola/msm8960-common/proprietary/etc/firmware/wcnss.mdt:system/etc/firmware/wcnss.mdt \
     vendor/motorola/msm8960-common/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
     vendor/motorola/msm8960-common/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/motorola/msm8960-common/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
