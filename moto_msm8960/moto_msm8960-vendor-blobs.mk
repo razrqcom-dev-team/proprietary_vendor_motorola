@@ -164,6 +164,23 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/moto_msm8960/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
     vendor/motorola/moto_msm8960/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
     vendor/motorola/moto_msm8960/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
+    vendor/motorola/moto_msm8960/proprietary/bin/gpsone_daemon:system/bin/gpsone_daemon \
+    vendor/motorola/moto_msm8960/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
+    vendor/motorola/moto_msm8960/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
+    vendor/motorola/moto_msm8960/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
+    vendor/motorola/moto_msm8960/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
+    vendor/motorola/moto_msm8960/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+    vendor/motorola/moto_msm8960/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
+    vendor/motorola/moto_msm8960/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
+    vendor/motorola/moto_msm8960/proprietary/lib/libloc_xtra.so:system/lib/libloc_xtra.so \
+    vendor/motorola/moto_msm8960/proprietary/lib/hw/gps.msm8960.so:system/lib/hw/gps.msm8960.so \
+    vendor/motorola/moto_msm8960/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
+    vendor/motorola/moto_msm8960/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
+    vendor/motorola/moto_msm8960/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
+    vendor/motorola/moto_msm8960/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
+    vendor/motorola/moto_msm8960/proprietary/vendor/lib/libulp2.so:system/vendor/lib/libulp2.so \
+    vendor/motorola/moto_msm8960/proprietary/vendor/lib/libquipc_os_api.so:system/vendor/lib/libquipc_os_api.so \
+    vendor/motorola/moto_msm8960/proprietary/vendor/lib/libquipc_ulp_adapter.so:system/vendor/lib/libquipc_ulp_adapter.so \
     vendor/motorola/moto_msm8960/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/motorola/moto_msm8960/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
     vendor/motorola/moto_msm8960/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
